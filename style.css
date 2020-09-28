@@ -1,0 +1,43 @@
+.navbar {
+	opacity: 0.6;
+	border-bottom: 1px solid #fff;
+}
+
+.jumbotron {
+	padding-top: 100px;
+	
+}
+/* header {
+	height: 0rem;
+} */
+header .bg-image {
+	position: absolute;
+	background-image: url(https://cdn.pixabay.com/photo/2018/12/07/07/53/stanford-3861259_960_720.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 30rem;
+	width: 100%;
+	opacity: 0.4;
+	z-index: 0;
+
+}
+
+#samrq{
+	width: 100%;
+	height: 30rem;
+	margin-left: 120px;
+	margin-right: 120px;
+}
+#ortala{
+	padding: 1,5rem;
+}
+header h1 {
+	padding: 28rem;
+	padding-block-start: 7rem;
+	padding-bottom: 0;
+}
+#resim-1{
+	margin-left: 120px;
+	padd: 150px;
+	
+}
